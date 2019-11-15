@@ -9,3 +9,5 @@ ImportError: cannot import name 'comb'
 ```  
 
  修改见图片
+
+![comb报错](comb.png)
